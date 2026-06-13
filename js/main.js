@@ -20,7 +20,7 @@ import Village from "./class.village.js";
  *
  *    In the name of the king, we give you this file.
  *              >>> Do not change this file! <<<
- *    Just add other files ot make it work.
+ *    Just add other files to make it work.
  *    How? Find a way, or you will hang coming tuesday!
  *
  *    Eric Keplinger - 2025-06-13
@@ -59,7 +59,7 @@ let citizens = ["Lorenzo Musetti", "Elina Svitolina", "Belinda Bencic", "Ben She
     "Angelique Kerber", "Julia Grabher", "Lilly Tagger", "Sinja Kraus", "Sebastian Ofner", "Lucas Miedler", "Jürgen Melzer",
         "Lukas Neumayer", "Filip Misolic", "Joel Schwärzler"]; //22
 let nobles = ["Roger Federer", "Serena Williams", "Novak Djokovic", "Maria Sharapova", "Rafael Nadal", "Venus Williams",
-"Stanislas Wawrinka", "Steffi Graf", "Dominik Thiem", "Sir Andy Murray"]; // 10
+"Stanislas Wawrinka", "Thomas Muster", "Dominik Thiem", "Sir Andy Murray"]; // 10
 
 citizens = shuffleArray(citizens);
 nobles = shuffleArray(nobles);
